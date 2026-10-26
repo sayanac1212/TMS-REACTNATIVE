@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "TMS",
+    "slug": "tms-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f0f1a"
+      }
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
